@@ -23,6 +23,14 @@ header{
 table{
     width: 100%;
     border-collapse: collapse;
+    text-align: left;
+}
+th{
+    height: 6px;
+    margin: auto;
+}
+td{
+    height: 50px;
 }
 #TitTab{
     background-color: rgb(13, 118, 150);
