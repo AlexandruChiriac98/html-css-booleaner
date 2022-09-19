@@ -17,6 +17,9 @@ header{
     font-size: x-small;
     color: gray;
 }
+.testpic{
+    font-size: x-small;
+}
 table{
     width: 100%;
     border-collapse: collapse;
@@ -49,4 +52,7 @@ table{
     width: 311px;
     height: 208px;
     color: white;
+}
+#grigio{
+    color: gray;
 }
