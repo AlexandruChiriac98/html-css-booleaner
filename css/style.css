@@ -1,0 +1,19 @@
+#sott{
+    color: gray;
+}
+#sottsott{
+    font-size: x-small;
+    color: gray;
+}
+#Azzur{
+    color: rgb(10, 153, 209);
+}
+.evidenziato{
+    background: yellow;
+}
+#pub1{
+    background-image: url("../img/monitor");
+}
+#pub2{
+    background-image: url("../img/graph.jpg");
+}
