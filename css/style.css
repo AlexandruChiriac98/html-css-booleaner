@@ -1,12 +1,13 @@
 header{
     background-color: aqua;
 }
+#partesopra{
+    background-image:  url("../img/pattern.png");
+    background-repeat: repeat-x;
+    background-size: 200px;
+}
 #logo{
     width: 200px;
-}
-#pattern{
-    width: 500px;
-    background-repeat: repeat-y;
 }
 
 #sott{
@@ -16,6 +17,19 @@ header{
     font-size: x-small;
     color: gray;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+#TitTab{
+    background-color: rgb(13, 118, 150);
+}
+#Col1{
+    background-color: rgb(33, 228, 235);
+}
+#Col2{
+    background-color: white;
+}
 #Azzur{
     color: rgb(10, 153, 209);
 }
@@ -23,10 +37,16 @@ header{
     background: yellow;
 }
 #pub1{
+    text-align: center;
     background-image: url("../img/monitor.jpg");
-    background-size: 120px;
+    width: 310px;
+    height: 208px;
+    color: white;
 }
 #pub2{
+    text-align: center;
     background-image: url("../img/graph.jpg");
-    background-size: 120px;
+    width: 311px;
+    height: 208px;
+    color: white;
 }
